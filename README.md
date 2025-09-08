@@ -1,16 +1,8 @@
-# flutter_application_1
+Langkah kerja:
+1. Membuat project baru flutter 
+2. membuka project divs code
+3. membuat assect lalu menambahkan gambar gunung
+4. mengatur file pubspec.yaml untuk mendaftarkan assetcs 
+5. mengedit file main.dart untuk membuat layout seperti menambahkan appbar, menampilkan teks nama dan nim, menampilkan gambar aset, menambahkan deskripsi singkat tentang gunung rinjani
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil
